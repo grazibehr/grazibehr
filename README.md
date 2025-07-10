@@ -1,5 +1,5 @@
 <!-- 🌸 README com Estética Cyberpunk Fofa 🌸 -->
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4, 0 0 30px #ff66c4; margin-top: 20px;">✨ Olá, eu sou a Graziela! ✨</h1>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4, 0 0 30px #ff66c4; margin-top: 20px;">✨ Olá, eu sou a Grazi! ✨</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/Bioh64e.gif" height="200" />

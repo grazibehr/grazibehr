@@ -8,7 +8,7 @@
 <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4; margin-top: 30px;">💜 Sobre mim</h2>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; color: #fff; font-size: 1.2rem; text-shadow: 0 0 10px #ff66c4, 0 0 15px #ff66c4; width: 80%; margin: auto;">
-  Sou uma <strong>Desenvolvedora Front-End Júnior</strong> com formação em <strong>Ciência da Computação</strong>.<br>
+  Sou uma <strong>Desenvolvedora FullStack Júnior</strong> com formação em <strong>Ciência da Computação & Pos-Graduanda em Desenvolvimento FullStack.</strong>.<br>
   Trabalho com <strong>Vue.js</strong> e amo criar interfaces <strong>modernas, responsivas e cheias de carinho</strong> pela experiência do usuário.<br><br>
   Minha paixão é transformar ideias em experiências visuais incríveis, sempre unindo <strong>design + performance + acessibilidade</strong>. <br>
   Curiosa por natureza, adoro explorar soluções criativas e escrever <strong>código limpo</strong> com propósito. 💻✨

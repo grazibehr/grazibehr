@@ -1,55 +1,97 @@
-<!-- 🌸 README com Estética Cyberpunk Fofa 🌸 -->
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4, 0 0 30px #ff66c4; margin-top: 20px;">✨ Olá, eu sou a Grazi! ✨</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/Bioh64e.gif" height="200" />
-</p>
+  <br>
 
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4; margin-top: 30px;">💜 Sobre mim</h2>
+  <img src="https://img.shields.io/badge/UX%2FUI-ECDED1?style=for-the-badge&logo=figma&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Clean%20Code-ECDED1?style=for-the-badge&logo=codefactor&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vue.js-ECDED1?style=for-the-badge&logo=vue.js&logoColor=000000" />
 
-<p align="center" style="font-family: 'Roboto', sans-serif; color: #fff; font-size: 1.2rem; text-shadow: 0 0 10px #ff66c4, 0 0 15px #ff66c4; width: 80%; margin: auto;">
-  Sou uma <strong>Desenvolvedora FullStack Júnior</strong> com formação em <strong>Ciência da Computação & Pos-Graduanda em Desenvolvimento FullStack.</strong>.<br>
-  Trabalho com <strong>Vue.js</strong> e amo criar interfaces <strong>modernas, responsivas e cheias de carinho</strong> pela experiência do usuário.<br><br>
-  Minha paixão é transformar ideias em experiências visuais incríveis, sempre unindo <strong>design + performance + acessibilidade</strong>. <br>
-  Curiosa por natureza, adoro explorar soluções criativas e escrever <strong>código limpo</strong> com propósito. 💻✨
-</p>
+  <br><br>
 
-<br>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=34&pause=650&color=ECDED1&center=true&vCenter=true&width=900&lines=Desenvolvedora+FullStack+%7C+Frontend"
+  alt="Desenvolvedora FullStack | Frontend"
+/>
 
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4; margin-top: 30px;">🌌 Tecnologias que uso 🌌</h2>
 
-<h3 align="center" style="color: #ff66c4; font-family: 'Orbitron', sans-serif;">💜 Front-End</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="50" />
-</p>
+  <samp>
+    <br><br>
+    Eu sou <b>Grazi</b> ✨<br>
+    Desenvolvo aplicações modernas com foco em experiência do usuário, performance e manutenção.
+  </samp>
 
-<h3 align="center" style="color: #ff66c4; font-family: 'Orbitron', sans-serif;">💜 Back-End</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-</p>
+  <br><br>
 
-<br>
+  <samp>
+    vue.js • typescript • node.js • mysql • ux/ui
+  </samp>
 
-<h2 align="center" style="color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4; margin-top: 30px;">💖 O que me motiva</h2>
-<p align="center" style="font-family: 'Roboto', sans-serif; color: #fff; font-size: 1.2rem; text-shadow: 0 0 10px #ff66c4, 0 0 15px #ff66c4; width: 80%; margin: auto;">
-  Criar experiências reais que impactam quem usa. 💫<br>
-  Saber que meu código toca pessoas me impulsiona a evoluir, estudar e sempre entregar o meu melhor! 🚀✨
-</p>
+</div>
 
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #ff66c4; text-shadow: 0 0 10px #ff66c4, 0 0 20px #ff66c4; margin-top: 40px;">✨ Vamos nos conectar? ✨</h3>
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/grazielafrassonbehrens/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
+<br><br>
+
+<div align="center">
+  <samp><b>Stack</b></samp>
+  <br><br>
+<div align="center">
+
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Vue.js-ECDED1?style=for-the-badge&logo=vue.js&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.js-ECDED1?style=for-the-badge&logo=node.js&logoColor=000000"/>
+
+  <br>
+
+  <!-- Vue + Backend -->
+  <img src="https://img.shields.io/badge/Vuex-ECDED1?style=for-the-badge&logo=vue.js&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Vue_Router-ECDED1?style=for-the-badge&logo=vue.js&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Vuetify-ECDED1?style=for-the-badge&logo=vuetify&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Axios-ECDED1?style=for-the-badge&logo=axios&logoColor=000000"/>
+
+  <br>
+
+  <!-- Banco + Engenharia -->
+  <img src="https://img.shields.io/badge/MySQL-ECDED1?style=for-the-badge&logo=mysql&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/APIs_REST-ECDED1?style=for-the-badge&logo=postman&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-ECDED1?style=for-the-badge&logo=github&logoColor=000000"/>
+
+  <br>
+
+  <!-- Arquitetura -->
+  <img src="https://img.shields.io/badge/GitFlow-ECDED1?style=for-the-badge&logo=git&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Webpack-ECDED1?style=for-the-badge&logo=webpack&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/UX%2FUI-ECDED1?style=for-the-badge&logo=figma&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Clean_Code-ECDED1?style=for-the-badge&logo=codefactor&logoColor=000000"/>
+
+</div>
+
+
+</div>
+
+
+<br><br>
+
+<div align="center">
+  <samp><b>Sobre mim</b></samp>
+  <br><br>
+
+  <samp>
+    ✦ Bacharel em Ciência da Computação <br>
+    ✦ Pós-graduanda em Desenvolvimento FullStack <br>
+    ✦ Experiência criando aplicações completas (front ao back) <br>
+    ✦ Forte foco em UX, performance e código limpo <br>
+  </samp>
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://i.imgur.com/YRNWi7u.gif" height="200" />
-<h4>Bye bye! Ate mais.</h4>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>

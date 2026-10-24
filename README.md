@@ -2,7 +2,7 @@
 
   <br>
 
-  <img src="./assets/logo.svg" width="90" alt="Logo de Grazi Behrens" />
+  <img src="logo.png" width="90" alt="Logo de Grazi Behrens" />
 
   <br><br>
 
